@@ -16,9 +16,9 @@
       <h1>Breakfast Menu</h1>
       <h2>Entrees</h2>
       <ul>
-        <li>2 Eggs and Toast.........9.99
-        Pancakes.......7.99
-        French Toast........8.99</li>
+        <li>2 Eggs and Toast..........9.99</li>
+        <li>Pancakes..................7.99</li>
+        <li>French Toast..............8.99</li>
       </ul>
       <h2>Beverage</h2>
       <ul>
