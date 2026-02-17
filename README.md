@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zokoe Resturaunt Menu</title>
+  </head>
+  <body>
+    <div style="height:550px;
+    width:400px
+    margin:
+    border:
+    padding:
+    background-image:url('images/background1.jpg');
+    background-repeat:">
+      <h1>Breakfast Menu</h1>
+      <h2>Entrees</h2>
+      <ul>
+        <li>2 Eggs and Toast.........9.99
+        Pancakes.......7.99
+        French Toast........8.99</li>
+      </ul>
+      <h2>Beverage</h2>
+      <ul>
+        <li>Hot Coca.......4.99</li>
+      </ul>
+    </div>
+  </body>
+</html>
